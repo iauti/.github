@@ -6,7 +6,7 @@
 
 *Whether you're starting from scratch, or leveling up an existing product suite, we bring experience and pragmatism that moves the needle on real business goals.*
 
-🌐 [iauti.tech](https://iauti.tech) &nbsp;|&nbsp; 📍 Vienna, Austria
+🌐 [iautilabs.com](https://www.iautilabs.com/en) &nbsp;|&nbsp; 📍 Vienna, Austria
 
 </div>
 
@@ -69,7 +69,7 @@ We organize **Mobileheads Austria** 🇦🇹 — a mobile engineering meetup com
 
 Have a project in mind, or just want to chat mobile engineering?
 
-- 🌐 [iauti.tech](https://iauti.tech)
+- 🌐 [iautilabs.com](https://www.iautilabs.com/en)
 - 💼 [LinkedIn](https://linkedin.com/in/iliagutu)
 - 🐙 [GitHub](https://github.com/gugell)
 
